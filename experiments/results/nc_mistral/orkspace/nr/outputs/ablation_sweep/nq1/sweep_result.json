@@ -1,0 +1,201 @@
+{
+    "baseline": 0.6647058823529411,
+    "baseline_ci": [
+        0.6472851323247865,
+        0.6816893353862313
+    ],
+    "suppress_good": 0.6487889273356401,
+    "suppress_good_ci": [
+        0.6311980877040926,
+        0.6659847297659445
+    ],
+    "suppress_bad": 0.7207612456747405,
+    "suppress_bad_ci": [
+        0.7041199040581729,
+        0.736816462327603
+    ],
+    "enhancer": 0.8387543252595155,
+    "enhancer_ci": [
+        0.8248978432672075,
+        0.8517114086006209
+    ],
+    "degrader": 0.6418685121107266,
+    "degrader_ci": [
+        0.6242103688620764,
+        0.6591499919814472
+    ],
+    "mcnemar_baseline_vs_enhancer": 0.0,
+    "confusion_matrices": {
+        "baseline": [
+            [
+                1443,
+                2,
+                0
+            ],
+            [
+                478,
+                967,
+                0
+            ]
+        ],
+        "suppress_good": [
+            [
+                1444,
+                1,
+                0
+            ],
+            [
+                431,
+                1014,
+                0
+            ]
+        ],
+        "suppress_bad": [
+            [
+                1443,
+                2,
+                0
+            ],
+            [
+                640,
+                805,
+                0
+            ]
+        ],
+        "enhancer": [
+            [
+                1442,
+                3,
+                0
+            ],
+            [
+                982,
+                463,
+                0
+            ]
+        ],
+        "degrader": [
+            [
+                1445,
+                0,
+                0
+            ],
+            [
+                410,
+                1035,
+                0
+            ]
+        ]
+    },
+    "per_class_metrics": {
+        "baseline": {
+            "benign (A)": {
+                "precision": 0.5988,
+                "recall": 0.9986,
+                "f1": 0.7486,
+                "support": 1445
+            },
+            "malware (B)": {
+                "precision": 0.9958,
+                "recall": 0.3308,
+                "f1": 0.4966,
+                "support": 1445
+            },
+            "macro avg": {
+                "precision": 0.7973,
+                "recall": 0.6647,
+                "f1": 0.6226,
+                "support": 2890
+            }
+        },
+        "suppress_good": {
+            "benign (A)": {
+                "precision": 0.5875,
+                "recall": 0.9993,
+                "f1": 0.7399,
+                "support": 1445
+            },
+            "malware (B)": {
+                "precision": 0.9977,
+                "recall": 0.2983,
+                "f1": 0.4592,
+                "support": 1445
+            },
+            "macro avg": {
+                "precision": 0.7926,
+                "recall": 0.6488,
+                "f1": 0.5996,
+                "support": 2890
+            }
+        },
+        "suppress_bad": {
+            "benign (A)": {
+                "precision": 0.6419,
+                "recall": 0.9986,
+                "f1": 0.7815,
+                "support": 1445
+            },
+            "malware (B)": {
+                "precision": 0.9969,
+                "recall": 0.4429,
+                "f1": 0.6133,
+                "support": 1445
+            },
+            "macro avg": {
+                "precision": 0.8194,
+                "recall": 0.7208,
+                "f1": 0.6974,
+                "support": 2890
+            }
+        },
+        "enhancer": {
+            "benign (A)": {
+                "precision": 0.757,
+                "recall": 0.9979,
+                "f1": 0.8609,
+                "support": 1445
+            },
+            "malware (B)": {
+                "precision": 0.997,
+                "recall": 0.6796,
+                "f1": 0.8082,
+                "support": 1445
+            },
+            "macro avg": {
+                "precision": 0.877,
+                "recall": 0.8387,
+                "f1": 0.8346,
+                "support": 2890
+            }
+        },
+        "degrader": {
+            "benign (A)": {
+                "precision": 0.5827,
+                "recall": 1.0,
+                "f1": 0.7363,
+                "support": 1445
+            },
+            "malware (B)": {
+                "precision": 1.0,
+                "recall": 0.2837,
+                "f1": 0.442,
+                "support": 1445
+            },
+            "macro avg": {
+                "precision": 0.7913,
+                "recall": 0.6419,
+                "f1": 0.5891,
+                "support": 2890
+            }
+        }
+    },
+    "sweep_config": {
+        "dim": "proxy_questions",
+        "value": 1,
+        "label": "nq1",
+        "max_samples": 20,
+        "m": 20,
+        "top_k": 100,
+        "num_proxy": 1
+    }
+}

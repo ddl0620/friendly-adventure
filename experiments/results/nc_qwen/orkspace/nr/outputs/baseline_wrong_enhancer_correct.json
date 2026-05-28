@@ -1,0 +1,14 @@
+[
+    {
+        "index": 732,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1423,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    }
+]

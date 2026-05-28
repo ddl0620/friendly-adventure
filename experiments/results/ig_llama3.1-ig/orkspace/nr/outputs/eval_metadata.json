@@ -1,0 +1,49 @@
+{
+    "model_name": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+    "quantization": "none (full bfloat16)",
+    "ig_steps": 10,
+    "use_integrated_gradients": true,
+    "method": "per_layer_ig_on_up_proj",
+    "target_function": "logit_margin_logsumexp_combined_tokens",
+    "max_code_chars_in_prompt": 2000,
+    "max_training_samples": 20,
+    "max_tokenizer_length": 2048,
+    "top_k_neurons": 100,
+    "z_coarse_selection": 5000,
+    "num_proxy_questions": 3,
+    "scale_good": 2.0,
+    "scale_bad": 0.0,
+    "gpu_count": 1,
+    "gpu_names": [
+        "NVIDIA A40"
+    ],
+    "gpu_vram_gb": [
+        47.71
+    ],
+    "dataset_path": "merged_dataset.json",
+    "timestamp": "2026-04-11T10:01:24.484608Z",
+    "ig_attribution_target": "up_proj_output",
+    "ig_layer_isolation": "per_layer",
+    "softmax_mode": "logit_margin",
+    "evaluation_mode": "logit_argmax",
+    "filter_ambiguous_neurons": true,
+    "intervention_site": "up_proj_output",
+    "truncation_stats_after_ace": {
+        "total_calls": 57,
+        "truncated_count": 12,
+        "truncated_pct": 21.05,
+        "mean_original_chars": 8525.9,
+        "mean_chars_removed": 33742.2
+    },
+    "truncation_stats_final": {
+        "total_calls": 3247,
+        "truncated_count": 631,
+        "truncated_pct": 19.43,
+        "mean_original_chars": 11892.4,
+        "mean_chars_removed": 54143.5
+    },
+    "wall_clock_seconds": 346377.5,
+    "peak_vram_gb": [
+        42.23
+    ]
+}

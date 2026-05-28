@@ -1,0 +1,50 @@
+[
+    {
+        "index": 463,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 750,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 925,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1309,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2774,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2811,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2868,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2877,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    }
+]

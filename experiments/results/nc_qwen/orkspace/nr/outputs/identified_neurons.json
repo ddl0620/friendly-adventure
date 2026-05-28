@@ -1,0 +1,1006 @@
+{
+    "good_neurons": [
+        {
+            "layer": "layer_24",
+            "neuron_idx": 1215,
+            "score": 1.7968149185180664
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 11589,
+            "score": 1.5013347864151
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 6003,
+            "score": 0.9850494861602783
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 1736,
+            "score": 0.783348798751831
+        },
+        {
+            "layer": "layer_24",
+            "neuron_idx": 10538,
+            "score": 0.7663068771362305
+        },
+        {
+            "layer": "layer_1",
+            "neuron_idx": 16155,
+            "score": 0.7227467894554138
+        },
+        {
+            "layer": "layer_24",
+            "neuron_idx": 16813,
+            "score": 0.6819557547569275
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 7059,
+            "score": 0.6280717253684998
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 7998,
+            "score": 0.5996553897857666
+        },
+        {
+            "layer": "layer_22",
+            "neuron_idx": 8292,
+            "score": 0.586392879486084
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 7546,
+            "score": 0.5773329138755798
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 5355,
+            "score": 0.5738309025764465
+        },
+        {
+            "layer": "layer_22",
+            "neuron_idx": 10464,
+            "score": 0.5432220101356506
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 13824,
+            "score": 0.4890975058078766
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 1919,
+            "score": 0.4832267165184021
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 12071,
+            "score": 0.4773394465446472
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 11131,
+            "score": 0.4453135132789612
+        },
+        {
+            "layer": "layer_21",
+            "neuron_idx": 5188,
+            "score": 0.4449378550052643
+        },
+        {
+            "layer": "layer_17",
+            "neuron_idx": 4355,
+            "score": 0.42083290219306946
+        },
+        {
+            "layer": "layer_21",
+            "neuron_idx": 15506,
+            "score": 0.39993372559547424
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 7079,
+            "score": 0.3962441384792328
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 2603,
+            "score": 0.3770715594291687
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 262,
+            "score": 0.3671170771121979
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 19,
+            "score": 0.3647911250591278
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 15812,
+            "score": 0.34218958020210266
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 2083,
+            "score": 0.3395835757255554
+        },
+        {
+            "layer": "layer_22",
+            "neuron_idx": 5117,
+            "score": 0.32486245036125183
+        },
+        {
+            "layer": "layer_21",
+            "neuron_idx": 856,
+            "score": 0.32300865650177
+        },
+        {
+            "layer": "layer_22",
+            "neuron_idx": 1512,
+            "score": 0.3224908113479614
+        },
+        {
+            "layer": "layer_13",
+            "neuron_idx": 4639,
+            "score": 0.31607240438461304
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 16936,
+            "score": 0.30978748202323914
+        },
+        {
+            "layer": "layer_24",
+            "neuron_idx": 17182,
+            "score": 0.2836168110370636
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 7708,
+            "score": 0.28341034054756165
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 2263,
+            "score": 0.2813015878200531
+        },
+        {
+            "layer": "layer_24",
+            "neuron_idx": 15066,
+            "score": 0.27884235978126526
+        },
+        {
+            "layer": "layer_3",
+            "neuron_idx": 12975,
+            "score": 0.26966601610183716
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 14566,
+            "score": 0.26728424429893494
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 15470,
+            "score": 0.26576128602027893
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 10006,
+            "score": 0.26377829909324646
+        },
+        {
+            "layer": "layer_15",
+            "neuron_idx": 11433,
+            "score": 0.2596268355846405
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 16611,
+            "score": 0.2523609399795532
+        },
+        {
+            "layer": "layer_0",
+            "neuron_idx": 18589,
+            "score": 0.25021862983703613
+        },
+        {
+            "layer": "layer_22",
+            "neuron_idx": 13457,
+            "score": 0.25013265013694763
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 2746,
+            "score": 0.24773499369621277
+        },
+        {
+            "layer": "layer_9",
+            "neuron_idx": 3583,
+            "score": 0.2353128343820572
+        },
+        {
+            "layer": "layer_11",
+            "neuron_idx": 11162,
+            "score": 0.23319335281848907
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 10524,
+            "score": 0.227382630109787
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 18419,
+            "score": 0.22534945607185364
+        },
+        {
+            "layer": "layer_7",
+            "neuron_idx": 10666,
+            "score": 0.2191028892993927
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 8011,
+            "score": 0.21898837387561798
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 3218,
+            "score": 0.21798676252365112
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 15789,
+            "score": 0.21488435566425323
+        },
+        {
+            "layer": "layer_24",
+            "neuron_idx": 10569,
+            "score": 0.2122865468263626
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 15451,
+            "score": 0.2107827067375183
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 4030,
+            "score": 0.21058714389801025
+        },
+        {
+            "layer": "layer_5",
+            "neuron_idx": 7561,
+            "score": 0.20679210126399994
+        },
+        {
+            "layer": "layer_13",
+            "neuron_idx": 7631,
+            "score": 0.20373064279556274
+        },
+        {
+            "layer": "layer_21",
+            "neuron_idx": 750,
+            "score": 0.20210523903369904
+        },
+        {
+            "layer": "layer_17",
+            "neuron_idx": 11891,
+            "score": 0.1979455053806305
+        },
+        {
+            "layer": "layer_22",
+            "neuron_idx": 3414,
+            "score": 0.19427050650119781
+        },
+        {
+            "layer": "layer_11",
+            "neuron_idx": 4042,
+            "score": 0.19129103422164917
+        },
+        {
+            "layer": "layer_14",
+            "neuron_idx": 10480,
+            "score": 0.19075089693069458
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 1708,
+            "score": 0.19021089375019073
+        },
+        {
+            "layer": "layer_24",
+            "neuron_idx": 17324,
+            "score": 0.18956759572029114
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 7503,
+            "score": 0.1869780570268631
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 18598,
+            "score": 0.18614153563976288
+        },
+        {
+            "layer": "layer_21",
+            "neuron_idx": 15129,
+            "score": 0.18559913337230682
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 5549,
+            "score": 0.1845087856054306
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 1483,
+            "score": 0.1835479885339737
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 15941,
+            "score": 0.18226423859596252
+        },
+        {
+            "layer": "layer_23",
+            "neuron_idx": 12811,
+            "score": 0.18143193423748016
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 167,
+            "score": 0.18071262538433075
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 14799,
+            "score": 0.17892488837242126
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 10013,
+            "score": 0.17677445709705353
+        },
+        {
+            "layer": "layer_13",
+            "neuron_idx": 7656,
+            "score": 0.176527738571167
+        },
+        {
+            "layer": "layer_14",
+            "neuron_idx": 7625,
+            "score": 0.17364802956581116
+        },
+        {
+            "layer": "layer_15",
+            "neuron_idx": 3881,
+            "score": 0.17227399349212646
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 9721,
+            "score": 0.17194680869579315
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 369,
+            "score": 0.17170004546642303
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 1393,
+            "score": 0.16870124638080597
+        },
+        {
+            "layer": "layer_23",
+            "neuron_idx": 12299,
+            "score": 0.16861161589622498
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 4501,
+            "score": 0.16736702620983124
+        },
+        {
+            "layer": "layer_15",
+            "neuron_idx": 9578,
+            "score": 0.16673967242240906
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 12837,
+            "score": 0.16649235785007477
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 11861,
+            "score": 0.16395996510982513
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 10371,
+            "score": 0.16320377588272095
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 6923,
+            "score": 0.1591499149799347
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 13190,
+            "score": 0.15666134655475616
+        },
+        {
+            "layer": "layer_7",
+            "neuron_idx": 4772,
+            "score": 0.15649139881134033
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 1256,
+            "score": 0.15562348067760468
+        },
+        {
+            "layer": "layer_17",
+            "neuron_idx": 4595,
+            "score": 0.15488208830356598
+        },
+        {
+            "layer": "layer_14",
+            "neuron_idx": 14646,
+            "score": 0.15393441915512085
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 14409,
+            "score": 0.15318769216537476
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 6707,
+            "score": 0.1527923196554184
+        },
+        {
+            "layer": "layer_22",
+            "neuron_idx": 10983,
+            "score": 0.15240950882434845
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 6098,
+            "score": 0.1519162654876709
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 10542,
+            "score": 0.15174035727977753
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 3337,
+            "score": 0.15063712000846863
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 9980,
+            "score": 0.15018393099308014
+        },
+        {
+            "layer": "layer_23",
+            "neuron_idx": 1124,
+            "score": 0.1501372754573822
+        }
+    ],
+    "bad_neurons": [
+        {
+            "layer": "layer_27",
+            "neuron_idx": 8582,
+            "score": -3.676617383956909
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 11814,
+            "score": -3.0848228931427
+        },
+        {
+            "layer": "layer_12",
+            "neuron_idx": 14178,
+            "score": -0.9163225889205933
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 11755,
+            "score": -0.7555665373802185
+        },
+        {
+            "layer": "layer_23",
+            "neuron_idx": 5148,
+            "score": -0.7285513281822205
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 2138,
+            "score": -0.6971437335014343
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 17538,
+            "score": -0.6394599080085754
+        },
+        {
+            "layer": "layer_23",
+            "neuron_idx": 10979,
+            "score": -0.5862879157066345
+        },
+        {
+            "layer": "layer_23",
+            "neuron_idx": 3471,
+            "score": -0.49061307311058044
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 930,
+            "score": -0.45599365234375
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 8269,
+            "score": -0.4321250021457672
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 2358,
+            "score": -0.4188641607761383
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 12212,
+            "score": -0.4046129286289215
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 1090,
+            "score": -0.40146902203559875
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 15961,
+            "score": -0.3926827907562256
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 12460,
+            "score": -0.38943204283714294
+        },
+        {
+            "layer": "layer_15",
+            "neuron_idx": 1551,
+            "score": -0.32391366362571716
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 7058,
+            "score": -0.31523165106773376
+        },
+        {
+            "layer": "layer_17",
+            "neuron_idx": 17155,
+            "score": -0.30836784839630127
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 10045,
+            "score": -0.30168429017066956
+        },
+        {
+            "layer": "layer_14",
+            "neuron_idx": 17555,
+            "score": -0.2994006276130676
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 3481,
+            "score": -0.29624009132385254
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 2841,
+            "score": -0.29184216260910034
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 18884,
+            "score": -0.29172787070274353
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 16992,
+            "score": -0.27342844009399414
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 12797,
+            "score": -0.26269060373306274
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 16306,
+            "score": -0.2602764368057251
+        },
+        {
+            "layer": "layer_15",
+            "neuron_idx": 14578,
+            "score": -0.2580026388168335
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 10953,
+            "score": -0.25748196244239807
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 2621,
+            "score": -0.2568121552467346
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 8894,
+            "score": -0.24961817264556885
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 14518,
+            "score": -0.2415047138929367
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 13927,
+            "score": -0.23408310115337372
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 4033,
+            "score": -0.23316629230976105
+        },
+        {
+            "layer": "layer_21",
+            "neuron_idx": 7155,
+            "score": -0.22625230252742767
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 3359,
+            "score": -0.22575905919075012
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 2295,
+            "score": -0.2254246473312378
+        },
+        {
+            "layer": "layer_24",
+            "neuron_idx": 12864,
+            "score": -0.21820977330207825
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 5656,
+            "score": -0.21235722303390503
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 15839,
+            "score": -0.20428256690502167
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 7568,
+            "score": -0.2036135494709015
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 15468,
+            "score": -0.19491888582706451
+        },
+        {
+            "layer": "layer_13",
+            "neuron_idx": 7572,
+            "score": -0.19456468522548676
+        },
+        {
+            "layer": "layer_6",
+            "neuron_idx": 3453,
+            "score": -0.19126680493354797
+        },
+        {
+            "layer": "layer_22",
+            "neuron_idx": 9853,
+            "score": -0.19120895862579346
+        },
+        {
+            "layer": "layer_21",
+            "neuron_idx": 6755,
+            "score": -0.19092844426631927
+        },
+        {
+            "layer": "layer_1",
+            "neuron_idx": 13655,
+            "score": -0.1877008080482483
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 8920,
+            "score": -0.18406380712985992
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 15207,
+            "score": -0.18237806856632233
+        },
+        {
+            "layer": "layer_12",
+            "neuron_idx": 9694,
+            "score": -0.17801010608673096
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 10779,
+            "score": -0.17555807530879974
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 13222,
+            "score": -0.1747552454471588
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 17643,
+            "score": -0.17380841076374054
+        },
+        {
+            "layer": "layer_23",
+            "neuron_idx": 762,
+            "score": -0.17164233326911926
+        },
+        {
+            "layer": "layer_13",
+            "neuron_idx": 7910,
+            "score": -0.1698562204837799
+        },
+        {
+            "layer": "layer_10",
+            "neuron_idx": 1193,
+            "score": -0.16539643704891205
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 2596,
+            "score": -0.16217008233070374
+        },
+        {
+            "layer": "layer_13",
+            "neuron_idx": 4638,
+            "score": -0.16179433465003967
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 4615,
+            "score": -0.16157108545303345
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 14565,
+            "score": -0.16139565408229828
+        },
+        {
+            "layer": "layer_23",
+            "neuron_idx": 16524,
+            "score": -0.1601320505142212
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 10666,
+            "score": -0.15998557209968567
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 9966,
+            "score": -0.15917514264583588
+        },
+        {
+            "layer": "layer_14",
+            "neuron_idx": 6371,
+            "score": -0.15901091694831848
+        },
+        {
+            "layer": "layer_15",
+            "neuron_idx": 16456,
+            "score": -0.15866026282310486
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 10902,
+            "score": -0.15861475467681885
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 3343,
+            "score": -0.15577121078968048
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 8389,
+            "score": -0.1482817530632019
+        },
+        {
+            "layer": "layer_13",
+            "neuron_idx": 5307,
+            "score": -0.14786142110824585
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 11424,
+            "score": -0.14712963998317719
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 6872,
+            "score": -0.14709873497486115
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 5444,
+            "score": -0.14682233333587646
+        },
+        {
+            "layer": "layer_21",
+            "neuron_idx": 15517,
+            "score": -0.1454237699508667
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 10036,
+            "score": -0.1451057642698288
+        },
+        {
+            "layer": "layer_5",
+            "neuron_idx": 10569,
+            "score": -0.14208552241325378
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 10331,
+            "score": -0.14199866354465485
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 15669,
+            "score": -0.14073708653450012
+        },
+        {
+            "layer": "layer_17",
+            "neuron_idx": 5668,
+            "score": -0.1405497044324875
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 3535,
+            "score": -0.139196515083313
+        },
+        {
+            "layer": "layer_26",
+            "neuron_idx": 4558,
+            "score": -0.1374683529138565
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 5086,
+            "score": -0.1372632086277008
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 15241,
+            "score": -0.137151837348938
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 18819,
+            "score": -0.13677620887756348
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 12866,
+            "score": -0.1364244967699051
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 13364,
+            "score": -0.13432753086090088
+        },
+        {
+            "layer": "layer_0",
+            "neuron_idx": 10144,
+            "score": -0.133731409907341
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 2684,
+            "score": -0.13267487287521362
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 11740,
+            "score": -0.1325172334909439
+        },
+        {
+            "layer": "layer_16",
+            "neuron_idx": 2577,
+            "score": -0.13181760907173157
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 3074,
+            "score": -0.1296440064907074
+        },
+        {
+            "layer": "layer_17",
+            "neuron_idx": 2278,
+            "score": -0.12959307432174683
+        },
+        {
+            "layer": "layer_27",
+            "neuron_idx": 3960,
+            "score": -0.12823082506656647
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 15161,
+            "score": -0.12822438776493073
+        },
+        {
+            "layer": "layer_19",
+            "neuron_idx": 4827,
+            "score": -0.1279994696378708
+        },
+        {
+            "layer": "layer_3",
+            "neuron_idx": 18444,
+            "score": -0.12632068991661072
+        },
+        {
+            "layer": "layer_18",
+            "neuron_idx": 8195,
+            "score": -0.12573149800300598
+        },
+        {
+            "layer": "layer_25",
+            "neuron_idx": 15729,
+            "score": -0.12519638240337372
+        },
+        {
+            "layer": "layer_7",
+            "neuron_idx": 12213,
+            "score": -0.1238255500793457
+        },
+        {
+            "layer": "layer_12",
+            "neuron_idx": 6563,
+            "score": -0.12331710010766983
+        },
+        {
+            "layer": "layer_20",
+            "neuron_idx": 2312,
+            "score": -0.12271183729171753
+        }
+    ]
+}

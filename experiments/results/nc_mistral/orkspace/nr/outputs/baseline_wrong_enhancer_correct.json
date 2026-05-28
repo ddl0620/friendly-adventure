@@ -1,0 +1,3026 @@
+[
+    {
+        "index": 1,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 21,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 33,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 42,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 48,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 59,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 60,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 63,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 76,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 78,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 80,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 88,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 95,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 99,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 103,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 106,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 111,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 112,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 115,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 119,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 127,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 131,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 133,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 141,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 146,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 165,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 167,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 171,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 174,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 177,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 183,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 199,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 205,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 207,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 208,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 213,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 221,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 225,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 233,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 238,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 242,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 244,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 257,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 260,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 261,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 263,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 268,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 272,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 275,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 277,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 278,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 285,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 289,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 291,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 298,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 303,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 305,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 310,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 316,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 317,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 320,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 326,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 336,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 342,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 349,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 352,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 364,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 370,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 374,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 381,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 386,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 388,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 391,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 394,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 401,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 408,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 409,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 410,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 412,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 415,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 421,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 428,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 432,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 434,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 439,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 443,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 446,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 454,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 456,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 460,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 461,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 480,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 481,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 483,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 490,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 497,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 499,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 501,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 506,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 512,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 515,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 522,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 524,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 532,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 536,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 545,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 546,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 551,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 556,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 560,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 576,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 579,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 580,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 583,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 584,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 586,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 589,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 592,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 598,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 600,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 603,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 610,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 612,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 615,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 617,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 620,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 623,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 638,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 651,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 655,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 659,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 662,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 679,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 685,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 690,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 697,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 714,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 716,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 717,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 727,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 733,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 737,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 742,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 743,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 747,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 754,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 755,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 758,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 762,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 765,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 772,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 784,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 787,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 795,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 798,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 802,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 808,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 813,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 815,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 817,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 843,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 844,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 845,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 849,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 855,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 856,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 857,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 859,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 869,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 873,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 882,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 892,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 896,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 908,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 909,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 926,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 930,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 936,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 940,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 949,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 951,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 957,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 968,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 969,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 972,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 975,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 981,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 987,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 988,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 990,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1001,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1015,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1016,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1026,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1032,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1033,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1043,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1045,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1048,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1049,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1051,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1054,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1057,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1059,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1060,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1073,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1076,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1079,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1083,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1088,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1091,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1101,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1103,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1106,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1109,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1116,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1120,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1127,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1128,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1129,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1131,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1135,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1138,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1140,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1151,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1163,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1166,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1179,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1182,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1190,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1192,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1198,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1200,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1206,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1209,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1211,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1219,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1220,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1224,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1233,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1241,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1247,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1253,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1259,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1261,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1270,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1280,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1282,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1283,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1287,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1288,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1290,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1295,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1296,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1326,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1329,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1341,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1344,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1346,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1350,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1355,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1357,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1363,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1365,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1381,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1385,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1389,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1390,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1391,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1394,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1398,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1399,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1411,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1430,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1435,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1440,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1443,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1445,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1447,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1450,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1452,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1453,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1462,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1466,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1470,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1473,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1481,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1492,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1493,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1498,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1499,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1505,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1515,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1523,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1533,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1538,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1542,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1544,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1545,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1554,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1556,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1561,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1566,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1567,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1570,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1572,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1576,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1586,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1601,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1605,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1611,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1612,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1615,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1627,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1630,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1637,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1646,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1651,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1660,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1663,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1667,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1668,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1669,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1681,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1690,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1692,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1711,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1717,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1727,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1747,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1748,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1753,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1765,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1789,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1790,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1793,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1797,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1799,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1802,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1817,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1821,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1823,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1827,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1829,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1841,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1846,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1858,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1870,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1873,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1884,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1887,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1890,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1897,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1909,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1911,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1926,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1928,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1941,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1944,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1947,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1957,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1960,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1962,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1964,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1968,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1969,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1970,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1977,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1984,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1990,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1992,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1995,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1997,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2001,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2012,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2014,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2019,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2022,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2023,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2029,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2040,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2042,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2047,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2055,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2056,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2058,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2060,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2071,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2080,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2091,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2104,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2116,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2125,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2134,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2137,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2148,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2167,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2173,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2178,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2192,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2199,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2203,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2206,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2208,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2210,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2226,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2230,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2233,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2249,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2252,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2261,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2263,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2265,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2268,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2271,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2272,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2276,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2278,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2298,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2299,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2300,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2302,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2307,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2322,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2332,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2334,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2337,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2338,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2343,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2345,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2346,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2354,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2355,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2359,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2368,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2371,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2378,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2380,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2403,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2411,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2412,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2415,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2426,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2467,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2473,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2474,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2480,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2488,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2493,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2495,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2497,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2510,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2511,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2519,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2523,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2529,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2549,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2553,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2556,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2566,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2568,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2575,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2578,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2582,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2602,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2604,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2606,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2614,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2615,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2632,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2646,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2647,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2652,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2658,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2663,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2677,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2686,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2689,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2692,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2694,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2695,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2696,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2700,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2716,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2718,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2723,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2737,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2739,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2741,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2742,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2745,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2748,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2757,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2769,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2775,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2783,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2813,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2815,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2816,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2818,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2834,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2842,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2862,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2865,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    }
+]

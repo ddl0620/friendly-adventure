@@ -1,0 +1,2 @@
+requests>=2.28
+ijson>=3.2   ; optional — enables streaming parse of large benign.json / malicious.json in sample_data.py

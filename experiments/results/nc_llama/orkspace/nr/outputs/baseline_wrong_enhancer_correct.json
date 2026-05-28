@@ -1,0 +1,44 @@
+[
+    {
+        "index": 750,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 925,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 1408,
+        "expected": "A",
+        "baseline_predicted": "B",
+        "enhancer_predicted": "A"
+    },
+    {
+        "index": 2774,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2811,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2868,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    },
+    {
+        "index": 2877,
+        "expected": "B",
+        "baseline_predicted": "A",
+        "enhancer_predicted": "B"
+    }
+]

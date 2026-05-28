@@ -1,0 +1,102 @@
+[
+    {
+        "dim": "training_size",
+        "value": 10,
+        "label": "tr10",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.9401384083044982,
+        "enhancer_ci_lo": 0.9308909129152491,
+        "enhancer_ci_hi": 0.9482173285309999,
+        "degrader": 0.5
+    },
+    {
+        "dim": "training_size",
+        "value": 50,
+        "label": "tr50",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.9401384083044982,
+        "enhancer_ci_lo": 0.9308909129152491,
+        "enhancer_ci_hi": 0.9482173285309999,
+        "degrader": 0.6231833910034602
+    },
+    {
+        "dim": "training_size",
+        "value": 100,
+        "label": "tr100",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.741522491349481,
+        "enhancer_ci_lo": 0.7252474873944977,
+        "enhancer_ci_hi": 0.7571562488708182,
+        "degrader": 0.6467128027681661
+    },
+    {
+        "dim": "training_size",
+        "value": 200,
+        "label": "tr200",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.6653979238754325,
+        "enhancer_ci_lo": 0.6479850604290595,
+        "enhancer_ci_hi": 0.6823716529446097,
+        "degrader": 0.6626297577854672
+    },
+    {
+        "dim": "ig_steps",
+        "value": 8,
+        "label": "m8",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.9404844290657439,
+        "enhancer_ci_lo": 0.9312598212427557,
+        "enhancer_ci_hi": 0.948539543034819,
+        "degrader": 0.6176470588235294
+    },
+    {
+        "dim": "ig_steps",
+        "value": 16,
+        "label": "m16",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.9404844290657439,
+        "enhancer_ci_lo": 0.9312598212427557,
+        "enhancer_ci_hi": 0.948539543034819,
+        "degrader": 0.6155709342560554
+    },
+    {
+        "dim": "ig_steps",
+        "value": 32,
+        "label": "m32",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.9404844290657439,
+        "enhancer_ci_lo": 0.9312598212427557,
+        "enhancer_ci_hi": 0.948539543034819,
+        "degrader": 0.6193771626297578
+    },
+    {
+        "dim": "neuron_k",
+        "value": 50,
+        "label": "K50",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.9391003460207612,
+        "enhancer_ci_lo": 0.929784671484675,
+        "enhancer_ci_hi": 0.9472502014675971,
+        "degrader": 0.6235294117647059
+    },
+    {
+        "dim": "neuron_k",
+        "value": 200,
+        "label": "K200",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.9432525951557094,
+        "enhancer_ci_lo": 0.9342140857820831,
+        "enhancer_ci_hi": 0.951114261146097,
+        "degrader": 0.6214532871972318
+    },
+    {
+        "dim": "proxy_questions",
+        "value": 1,
+        "label": "nq1",
+        "baseline": 0.6647058823529411,
+        "enhancer": 0.9397923875432526,
+        "enhancer_ci_lo": 0.9305220856110835,
+        "enhancer_ci_hi": 0.9478950330038399,
+        "degrader": 0.5214532871972318
+    }
+]

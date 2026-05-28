@@ -1,0 +1,15 @@
+# Plotting only (reproduce figures from precomputed results/):
+matplotlib
+numpy
+
+# Attribution (re-running experiments, needs a GPU):
+torch
+transformers
+accelerate
+bitsandbytes
+datasets
+pandas
+scikit-learn
+seaborn
+tqdm
+huggingface_hub
