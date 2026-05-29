@@ -65,6 +65,13 @@ Each run writes `identified_neurons.json` (ranked neurons), `validation_results.
 
 To rebuild the dataset from scratch, see [data_collection/README.md](data_collection/README.md). Full run order is in [experiments/README.md](experiments/README.md).
 
-## Ethics
+## Ethics and Safe Handling
 
-This dataset contains real malicious code for research only. Samples are inert as stored (plain text) — do not install, execute, or build any package from these records.
+**This dataset contains real, functional malware** (credential stealers, droppers, obfuscated payload loaders), released **only** for defensive research and reproducing this study. Please never to author or distribute malware.
+
+Samples are inert as plain text and do not run when read or parsed, but become dangerous if reconstructed. So:
+
+- **Never** install, build, import, or execute any package or snippet from these records, and do not fetch the payloads/URLs they reference (endpoints may still be live).
+- Inspect samples only in an isolated, network-restricted environment with no access to credentials or production systems.
+
+Malicious samples come from [PyPI Malregistry](https://github.com/lxyeternal/pypi_malregistry) and are redistributed under its terms for research. Please responsibly and lawfully handle per your institution's policies.
