@@ -1,7 +1,5 @@
 # Replication Package for "Which Neurons Detect Malicious Code? A Probing Study of LLM Security Knowledge"
 
-Code, dataset, and precomputed results for our study localizing the MLP neurons that drive an LLM's benign-vs-malicious decision on PyPI source code. We attribute neurons with two methods (Integrated Gradients, Neuron Conductance) across three 7–8B models, causally validate them with interventions, and analyze their stability and layer distribution.
-
 ## Repository Structure
 
 ```text
