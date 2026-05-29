@@ -19,7 +19,7 @@ package/
 
 ## Dataset
 
-`data_collection/merged_dataset.json` — 3,000 records, each with `package_name`, `version`, `filename`, `source_code`, and `label` (`0` = benign, `1` = malicious).
+`data_collection/merged_dataset.json`: 3,000 records, each with `package_name`, `version`, `filename`, `source_code`, and `label` (`0` = benign, `1` = malicious).
 
 - Balanced: 1,500 benign + 1,500 malicious.
 - Length-matched so the probe can't exploit trivial code-length cues.
@@ -33,7 +33,7 @@ package/
 | Mistral | `mistralai/Mistral-7B-Instruct-v0.3` |
 | Qwen    | `Qwen/Qwen2.5-7B-Instruct` |
 
-All three are gated — set `HF_TOKEN` to a token with access before re-running attribution.
+All three models are gated. Please set `HF_TOKEN` to a token with access before re-running attribution.
 
 ## Quick Start
 
