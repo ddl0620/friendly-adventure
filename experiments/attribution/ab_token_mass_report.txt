@@ -1,0 +1,91 @@
+A/B NEXT-TOKEN MASS AND ACCURACY VALIDATION REPORT
+================================================
+
+Purpose
+-------
+This diagnostic checks whether the forced-choice A/B accuracy used in
+nr_model_ig_upproj_logit_margin.py reflects the model's natural next-token
+behavior. It uses the same attribution/evaluation split and the same prompt
+format as the experiment.
+
+Model
+-----
+meta-llama/Meta-Llama-3.1-8B-Instruct
+
+Accepted answer-token forms
+---------------------------
+A: token IDs [32, 362], decoded as ['A', ' A']
+B: token IDs [33, 426], decoded as ['B', ' B']
+
+Evaluation protocol
+-------------------
+1. Reserve the same 20 stratified samples used by the attribution split.
+2. Exclude those samples from evaluation.
+3. Construct the same balanced held-out evaluation split.
+4. For each prompt, obtain the logits at the final prompt position.
+5. Combine the bare and space-prefixed token logits for each option:
+
+       L_A = logsumexp(logit('A'), logit(' A'))
+       L_B = logsumexp(logit('B'), logit(' B'))
+
+6. The forced-choice prediction is the option with the larger combined logit.
+7. Independently apply a full-vocabulary softmax and check whether the actual
+   highest-probability next token is one of the four accepted answer tokens.
+
+Results
+-------
+Evaluation samples:                 2890
+Forced-choice A/B accuracy:        93.91% (2714/2890)
+Actual top token is accepted A/B: 100.00% (2890/2890)
+Actual top token is correct A/B:   93.91% (2714/2890)
+
+Mean full-vocabulary A/B mass:      0.82661091
+Median full-vocabulary A/B mass:    0.84205645
+Minimum full-vocabulary A/B mass:   0.55628371
+Maximum full-vocabulary A/B mass:   0.98390990
+
+Mean total other-token mass:        0.17338909
+Mean largest single other token:    0.15554885
+Maximum single other token:         0.43537244
+
+Samples with A/B mass >= 0.50:    100.00% (2890/2890)
+Samples with A/B mass >= 0.90:     15.81% (457/2890)
+Samples with A/B mass >= 0.95:      5.29% (153/2890)
+Samples with A/B mass >= 0.99:      0.00% (0/2890)
+
+Interpretation
+--------------
+For every evaluation sample, the model's unrestricted highest-probability
+next token was one of 'A', ' A', 'B', or ' B'. Therefore, the forced-choice
+metric is not selecting between answer tokens that the model would naturally
+avoid. The model naturally placed an accepted A/B token at rank 1 for all
+2,890 prompts.
+
+The actual top-token answer was correct for 2,714 of 2,890 samples, producing
+the same 93.91% accuracy as the forced-choice LSE calculation. The remaining
+176 samples selected the incorrect A/B answer.
+
+The average probability mass assigned to the four accepted answer forms was
+82.66%. Most remaining mass was assigned to formatting alternatives, especially
+newline tokens. Although the A/B mass was not close to 1 for every sample, no
+other token overtook the accepted A/B tokens as the top next-token prediction.
+
+Supported conclusion
+--------------------
+The experiment's reported accuracy is valid as forced-choice next-token
+accuracy. For this model, dataset, split, and prompt format, the unrestricted
+top-token diagnostic additionally shows that the model's natural immediate
+next token is always an accepted A/B form.
+
+A precise statement for reporting is:
+
+  "The model achieved 93.91% forced-choice next-token accuracy on 2,890
+   held-out examples. An unrestricted vocabulary analysis found that the
+   highest-probability next token was an accepted A/B form for 100% of the
+   examples, and the unrestricted top-token answer accuracy was also 93.91%."
+
+Scope and limitation
+--------------------
+This validates the model's immediate next-token answer behavior. It does not
+measure unrestricted multi-token generation or the correctness of a longer
+free-form explanation generated after the first answer token.
